@@ -38,3 +38,4 @@ ggplot(attacks_per_year, aes(x = iyear, y = num_attacks)) +
     x = "Year",
     y = "Number of Attacks"
   ) 
+
